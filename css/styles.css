@@ -701,7 +701,7 @@ img {
   transition-duration: 250ms;
   transition-property: background-color, fill;
 }
-
+.modal-close:hover,
 .modal-close:focus {
   background-color: var(--button-hover-color);
   fill: var(--background-color);
